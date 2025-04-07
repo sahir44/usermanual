@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165589001004",
+    "project_id": "usermanual-27088",
+    "storage_bucket": "usermanual-27088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165589001004:android:030747acb6e95567fb4289",
+        "android_client_info": {
+          "package_name": "com.example.usermanual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDpN6kq2aR7wjV4UsdzkYt7fGcjuvgT0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
